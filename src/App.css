@@ -1,0 +1,81 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.Paragrah {
+  margin-top: 1em;
+  margin-bottom: 0.1em;
+}
+
+.App-header {
+  background-color: #fff;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.figureCaption {
+  color: #333;
+  font-family: BentonSans, sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  line-height: 16px;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.BAYC {
+  max-width: 150px;
+  margin: auto auto 16px;
+}
+
+.LS8OJ {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.yr19Zb {
+  min-height: 92px;
+}
+
+.LLD4me {
+  min-height: 150px;
+  max-height: 290px;
+  height: calc(100% - 560px);
+  margin-top: 290px;
+}
+
+.o3j99 {
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+
+.lnXdpd {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+  width: auto;
+}
+
+.picContainer {
+  height: 15vmin;
+  pointer-events: none;
+  width: 100%;
+  padding-left: calc(50% - 75px);
+  margin-top: 10px;
+}
